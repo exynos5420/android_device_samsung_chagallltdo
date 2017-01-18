@@ -1,0 +1,1 @@
+Chagallltedo (SM-T805Y) device repo for LineageOS.
